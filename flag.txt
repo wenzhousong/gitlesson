@@ -1,1 +1,2 @@
-flag{songGuanngXinIsFlag}
+我把flag给删了，你能找得到吗？
+        --sgx
